@@ -26,4 +26,5 @@ The dataset was published in 2024 on Energydata.info and includes over 500,000 b
 This work was developed as part of a group project. The introduction, data exploration, and clustering analysis and interpretation contained here reflect my individual contribution. The full project also includes regression and classification components developed by collaborators.
 
 ## Author
-Julieta Pappano, Policy and Innovation Specialist
+Julieta Pappano
+Policy and Innovation Specialist
