@@ -27,5 +27,4 @@ This work was developed as part of a group project. The introduction, data explo
 
 ## Author
 Julieta Pappano
-Data Analyst and Public Policy Specialist
-Passionate about applying data science for sustainable development and clean energy transitions
+Policy and Innovation Specialist
